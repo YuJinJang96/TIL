@@ -2,3 +2,5 @@
 GIT과 GITHUB
 
 git push -u 테스트
+
+GITHUB에서 수정됨
