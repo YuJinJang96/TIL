@@ -1,0 +1,4 @@
+#실습 2
+#test2.txt 파일을 생성하고 내용을 기입한 후, 
+#해당 파일을 GITHUB에 업로드 해주세요.
+#단, 명령어는 git push-u origin master 사용
